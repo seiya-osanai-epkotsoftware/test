@@ -3,13 +3,10 @@
 
 @import "{{ site.theme }}";
 
-h2 {
+main > h2 {
     position: -webkit-sticky;
     position: sticky;
     top: 0;
-    background-color: #0092d4;
+    background-color: #599ea6;
     color: #ffffff !important;
-    padding-top:0.5rem;
-    padding-left:0.5rem;
-    padding-bottom:0.5rem;
 }
