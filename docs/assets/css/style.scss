@@ -8,7 +8,6 @@ body {
 }
 
 main > h2 {
-    scroll-padding-top: 40px;
     position: -webkit-sticky;
     position: sticky;
     top: 0;
@@ -18,12 +17,12 @@ main > h2 {
 }
 
 main > h3 {
-    scroll-padding-top: 40px;
+    scroll-margin-top: 40px;
     background-color: #e6e6e6;
 }
 
 main > h4 {
-    scroll-padding-top: 40px;
+    scroll-margin-top: 40px;
     background-color: #f4f4f4;
 }
 
